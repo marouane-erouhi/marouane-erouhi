@@ -1,5 +1,6 @@
-### Hi there 👋, My name is Marouane. welsome to my personal repo. I am a web developer based in Toronto, Canada
+### Hi there 👋, My name is Marouane. welcome to my personal github page. I am a web developer based in Toronto, Canada. 
 
+### I mainly work with the MERN stack, but I tend to work with whatever tool works for the project.
 <!--
 **marouane-erouhi/marouane-erouhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
